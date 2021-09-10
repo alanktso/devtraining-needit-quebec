@@ -11,7 +11,7 @@
         <element/>
         <element_level2/>
         <indicator display_value="NeedIt: Active Weekly">41a3739c2fd23010919b55272799b655</indicator>
-        <last_check>20210830</last_check>
+        <last_check>20210906</last_check>
         <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <sys_class_name>pa_thresholds</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -19,7 +19,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8a38cf9d2f927010919b55272799b678</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>NeedIt: Active Weekly</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -27,7 +27,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>pa_thresholds_8a38cf9d2f927010919b55272799b678</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2021-08-31 23:05:34</sys_updated_on>
+        <sys_updated_on>2021-09-08 01:18:30</sys_updated_on>
         <value>1100</value>
     </pa_thresholds>
 </record_update>
